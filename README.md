@@ -1,13 +1,5 @@
 # Introduction
 
-慧聪文档
-
-
-
-慧聪文档
-
-
-
 * [全书组织](introduction.md)
 
 ## Part I - Prometheus基础
